@@ -1,0 +1,17 @@
+.pinkbg{
+    background-color: #fceae8;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+}
